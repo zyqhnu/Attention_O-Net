@@ -9,6 +9,9 @@ Accept by IEEE Journal of Biomedical Health and Informatics (J-BHI).
 The full source code will have been released (2021/06/28).
 
 
-**Requirements**:
+
+Requirements:
+
 Tensorflow  == 1.3
+
 numpy == 1.16
