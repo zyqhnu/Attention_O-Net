@@ -3,7 +3,7 @@
 """
 Created on Mon Dec 23 11:55:42 2019
 
-@author: ttt
+@author: zyq
 """
 
 import scipy.ndimage as ndimg
