@@ -1,5 +1,5 @@
 '''
-covlution layer，pool layer，initialization。。。。
+covlution layer，pool layer，initialization and so on
 '''
 #from __future__ import division
 import tensorflow as tf
