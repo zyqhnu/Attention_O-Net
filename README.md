@@ -1,5 +1,5 @@
 # Attention_O-Net
-A novel neural network alchitecture for junction detection.
+An O-shape neural network alchitecture.
 
 "An O-shape Neural Network with Attention Module to Detect Junctions in Biomedical Images without Segmentation"
 
