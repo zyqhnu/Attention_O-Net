@@ -15,3 +15,5 @@ Requirements:
 Tensorflow  == 1.3
 
 numpy == 1.16
+
+![image for AONet architecture] https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/fig2.jpg
