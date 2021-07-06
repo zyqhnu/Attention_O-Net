@@ -36,4 +36,4 @@ Y. Zhang, M. Liu, F. Yu, T. Zeng and Y. Wang, "An O-shape Neural Network With At
 
 Accepted by IEEE Journal of Biomedical Health and Informatics (J-BHI).
 
-The full source code have been released at 2021/06/28.
+The complete source code has been released on June 28, 2021.
