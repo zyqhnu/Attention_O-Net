@@ -1,4 +1,4 @@
-# Attention_O-Net
+# Attention O-Net
 
 An O-shape neural network alchitecture for junction detection in biomedical iamges.
 
