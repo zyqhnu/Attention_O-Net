@@ -8,7 +8,7 @@ An O-shape neural network alchitecture for junction detection in biomedical iamg
 ## Attention O-Net Architecture:
 ### The Overall Diagram of Attention O-Net Architecture:
 
-![Overall Diagram](https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/fig2.jpg)
+![Overall_Diagram](https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/fig2.jpg)
 
 <br> 
 
