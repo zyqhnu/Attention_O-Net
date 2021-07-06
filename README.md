@@ -11,14 +11,6 @@ The full source code have been released at 2021/06/28.
 
 <br> 
 
-## Requirements:
-
-Tensorflow  == 1.3
-
-numpy == 1.16
-
-<br> 
-
 
 ## Attention O-Net Architecture:
 ### The Overall Diagram of Attention O-Net Architecture:
@@ -29,9 +21,19 @@ numpy == 1.16
 
 ### The Detailed Architecture of Attention O-Net:
 
-![detialed_AONet](https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/detialed_AONet.jpg)
+![detialed_AONet](https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/detialed_A_ONet.jpg)
 
 <br> 
+
+
+## Requirements:
+
+Tensorflow  == 1.3
+
+numpy == 1.16
+
+<br> 
+
 
 ## Citation
 
