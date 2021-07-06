@@ -21,8 +21,15 @@ numpy == 1.16
 
 
 ## Attention O-Net Architecture:
+### The Overall Diagram of Attention O-Net Architecture:
 
-![images](https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/fig2.jpg)
+![Overall Diagram](https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/fig2.jpg)
+
+<br> 
+
+### The Detailed Architecture of Attention O-Net:
+
+![detialed_AONet](https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/detialed_AONet.jpg)
 
 <br> 
 
