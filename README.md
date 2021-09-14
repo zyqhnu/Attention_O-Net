@@ -9,7 +9,7 @@
 
 ### The Overall Diagram of Attention O-Net Architecture:
 
-![Overall_Diagram](https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/fig2.jpg)
+![Overall_Diagram](https://github.com/zyqhnu/Images_for_Attention_O-Net/blob/main/del_dropout.jpg)
 
 
 ### The Detailed Architecture of Attention O-Net:
